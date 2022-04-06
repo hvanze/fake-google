@@ -119,5 +119,5 @@ select{
 .footer-nav{
     width: 100%;
     position: absolute;
-    bottom: 1;
+    bottom: 0;
 }
